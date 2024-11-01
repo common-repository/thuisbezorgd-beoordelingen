@@ -1,0 +1,30 @@
+/* Settings page */
+.thuisbezorgd-logo {
+	width: 250px;
+	display: block;
+	margin: 0 auto;
+}
+
+.thuisbezorgd-logo img {
+	width: 100%;
+	border-radius: 10px;
+}
+
+/* Longer URL input */
+input[type=url] {
+	width: 100%;
+}
+
+/* Donate area */
+.thuisbezorgd-donate {
+	padding: 5px;
+	border: 1px solid #000;
+	border-radius: 5px;
+	width: auto;
+
+	font-weight: bold;
+
+	position: relative;
+	width: auto;
+	display: table;
+}

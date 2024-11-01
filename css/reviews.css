@@ -1,0 +1,86 @@
+/* Header image */
+.thuisbezorgd-beoordelingen-header {
+	width: 100%;
+	background: #ff8000;
+	padding: 15px 0;
+	margin-bottom: 15px;
+}
+
+.thuisbezorgd-beoordelingen-header img {
+	width: 430px;
+	display: block;
+	margin: 0 auto;
+}
+
+/* Single review item */
+.thuisbezorgd-beoordelingen-review {
+	margin-top: 25px;
+}
+
+/* Review count text */
+.thuisbezorgd-beoordelingen-reviewcount {
+	font-size: 16px;
+	color: #666;
+}
+
+/* Review meta (author, date) */
+.thuisbezorgd-beoordelingen-review-meta {
+	background: #f9f9f9;
+	padding: 5px 5px;
+}
+
+/* Meta author */
+.thuisbezorgd-beoordelingen-review-meta-author {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+/* Meta date */
+.thuisbezorgd-beoordelingen-review-meta-date {
+	color: #797979;
+	font-size: 12px;
+}
+
+/* Meta ratings */
+.thuisbezorgd-beoordelingen-meta-ratings {
+	display: table;
+}
+
+.thuisbezorgd-beoordelingen-meta-rating {
+	display: table-row;
+}
+
+.thuisbezorgd-beoordelingen-meta-rating-title {
+	display: table-cell;
+}
+
+.star-ratings-sprite {
+	display: table-cell;
+}
+
+/* Review body */
+.thuisbezorgd-beoordelingen-review-body {
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+/* Read more reviews button/link */
+.thuisbezorgd-beoordelingen-review-readmore {
+	margin-top: 25px;
+	padding: 15px 25px;
+	border-radius: 5px;
+	background: #ff8000;
+	color: #fff !important;
+	font-weight: bold;
+	font-size: 15px;
+	transition: 0s;
+	text-align: center;
+
+	position: relative;
+	width: auto;
+	display: table;
+}
+
+.thuisbezorgd-beoordelingen-review-readmore:hover {
+	background: #FC9F42;
+}
